@@ -1,13 +1,14 @@
 [tool.poetry]
-name = "python-course"
+name = "job-scrapper"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["opminsu <<>>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
 requests = "^2.27.1"
 beautifulsoup4 = "^4.10.0"
+lxml = "^4.7.1"
 
 [tool.poetry.dev-dependencies]
 
